@@ -1,5 +1,4 @@
 import org.junit.*;
-import Sub.*;
 
 public class TestSub {
 
