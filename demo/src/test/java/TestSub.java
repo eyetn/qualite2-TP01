@@ -4,6 +4,14 @@ public class TestSub {
 
     @Test
     public void testSub(){
-        Assert.assertEquals("Echec test sub",3,Sub.sub(5, 2));
+
+        //GIVEN 
+        int a=5,b=2;
+
+        //WHEN
+        int res=a-b;
+
+        //THEN
+        Assert.assertEquals("Echec test sub",res,Sub.sub(a, b));
     }
 }
