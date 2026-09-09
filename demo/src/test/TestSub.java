@@ -1,5 +1,5 @@
 import org.junit.*;
-import java.Sub.*;
+import Sub.*;
 
 public class TestSub {
 
