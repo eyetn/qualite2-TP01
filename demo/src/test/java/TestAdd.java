@@ -1,12 +1,12 @@
-
-
 import org.junit.Assert;
 import org.junit.Test;
 
 import com.example.Add;
 
+/** Classe de test pour Add
+ * @author Etienne M
+ */
 public class TestAdd {
-
     @Test
     public void testAddition(){
         // GIVEN
